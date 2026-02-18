@@ -1,4 +1,4 @@
-# 📚 Sistema de Gerenciamento de Seminários (Java)
+# 📚 Sistema de Gerenciamento de Seminários Java (CONSOLE MVP)
 
 Projeto pessoal desenvolvido em Java com foco em **Programação Orientada a Objetos (POO)**, organização em camadas e aplicação de regras de negócio.  
 O sistema simula o gerenciamento de seminários, permitindo o cadastro e relacionamento entre alunos, professores, locais e seminários.
