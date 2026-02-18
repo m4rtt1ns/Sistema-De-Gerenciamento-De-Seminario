@@ -85,7 +85,7 @@ src/
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/M4rtt1ns/seminarios-java.git
+git clone https://github.com/m4rtt1ns/Sistema-De-Gerenciamento-De-Seminario.git
 ```
 
 2. Abra o projeto no IntelliJ IDEA  
